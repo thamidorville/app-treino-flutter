@@ -5,9 +5,9 @@ Aplicação web para personal trainers gerenciarem fichas de treino dos seus alu
 ## Stack
 
 - **Flutter** (Dart) - UI reativa
-- **Firebase Firestore** — banco de dados NoSQL em nuvem
+- **Firebase Firestore** (banco de dados NoSQL em nuvem)
 - **Provider** - gerência de estado
-- **pdf / printing** - geração de PDF
+- **pdf / printing** (geração de PDF)
 
 ## Funcionalidades
 
